@@ -2,7 +2,7 @@
 layout: default
 title: Portal
 parent: Lab
-nav_order: 1
+nav_order: 4
 ---
 
 # IDEAtlas User Data Portal
