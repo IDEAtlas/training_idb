@@ -13,7 +13,7 @@ This workshop provides the technical foundation for mapping Deprived Urban Areas
 The objective of this training is to equip participants with the skills to implement an end-to-end mapping pipeline. By the end of this workshop, you will be able to:
 
 ### 1. Data Creation & Annotation
-*   **IDEAtlas User Data Portal:** Utilize [portal.ideatlas.eu](https://portal.ideatlas.eu) to digitize polygons and generate the reference data required for training the AI model.
+*   **IDEAtlas User Data Portal:** Utilize the IDEAtlas User Data Portal to digitize polygons and generate the reference data required for training the AI model.
 
 ### 2. The Mapping Workflow
 You will master the full lifecycle of a DUA mapping project, including:
