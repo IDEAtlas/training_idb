@@ -6,7 +6,7 @@ nav_order: 3
 
 # IDEAtlas
 
-The IDEAtlas is focused on creating standardized and scalable deprivation mapping.
+The IDEAtlas is focused on creating standardized, user-centered and scalable deprivation mapping globally.
 
 ## Resources
 * **[Project Website](https://ideatlas.eu):** Official project mission, publications, and research updates.
