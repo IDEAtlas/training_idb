@@ -32,4 +32,4 @@ This project is dual-licensed:
 - **Content:** [Creative Commons Attribution 4.0 International](LICENSE-CC)
 
 ---
-*Developed by Bedru [Your Last Name/Affiliation] at ITC, University of Twente.*
+*Developed by Bedru IDEAtlas at University of Twente.*
