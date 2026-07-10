@@ -1,4 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: Mapping DUAs using EO & AI
-# description: "AI-driven mapping of Deprived Urban Areas (DUA)"
+title: "Mapping DUAs using EO & AI"
+
+# Add these to help the theme build the structure correctly
+nav_sort: true
+search_enabled: true
