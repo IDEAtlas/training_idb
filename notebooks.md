@@ -7,7 +7,8 @@ nav_order: 3
 
 # Mapping Workflow Notebooks
 
-Execute the pipeline using the provided Jupyter notebooks.
+Access the notebook:
 
-* **[Launch Binder](LINK_TO_BINDER):** Launch an interactive environment.
-* **[JupyterLite](LINK_TO_JUPYTERLITE):** Run notebooks directly in your browser.
+* **[Launch in Binder](https://mybinder.org/v2/gh/IDEAtlas/ai-dua-mapping/HEAD){:target="_blank"}**
+
+*Note: Before launching the notebook, please ensure all required data is placed in the corresponding folders as outlined in the Data section.*
