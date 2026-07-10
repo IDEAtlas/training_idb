@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IDEAtlas Workshop
+title: About the Workshop
 nav_order: 1
 ---
 
