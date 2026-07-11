@@ -8,7 +8,7 @@ nav_order: 1
 
 ---
 
-This workshop provides the technical foundation for mapping Deprived Urban Areas (DUA) using open Earth Observation (EO) data and advanced geospatial AI methods. As urban populations expand, the ability to identify and characterize DUA at scale is essential for informed urban planning and sdg 11.1.1 monitoring.
+The rapid urbanization across many regions worldwide has significantly increased the spread of deprived urban areas, often called slums or informal settlements. The lack of reliable geospatial information on their extent and locations in many cities continues to hinder efforts aimed at improving living conditions. The IDEAtlas initiative addresses this critical information gap by employing a User- and Data-centric Artificial Intelligence (AI) approach for accurately mapping these areas to support Sustainable Development Goal (SDG) Indicator 11.1.1. This workshop equips you with the technical foundation to implement and contribute to this effort.
 
 ## Workshop Objectives
 
