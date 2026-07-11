@@ -70,7 +70,6 @@ nav_order: 2
 </style>
 
 <div class="presentation-container">
-  <h2 style="margin-top: 0; color: #1f2937;">Setup and Introduction to the Workshop</h2>
   
   <div class="button-group">
     <button onclick="toggleSlides()" class="btn btn-open">📊 View Slides</button>
