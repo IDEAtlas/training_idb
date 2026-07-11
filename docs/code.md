@@ -110,10 +110,6 @@ Execute the DUA mapping pipeline using one of the following options:
     <div class="code-block">python setup.py --docker</div>
     <div class="code-block">docker exec -it ideatlas bash</div>
   </div>
-  
-  <div style="margin-top: 15px;">
-    <a href="https://github.com/IDEAtlas/ai-dua-mapping" target="_blank" class="btn btn-primary">📖 View Setup Instructions</a>
-  </div>
 </div>
 
 ## Option 2: Launch in Binder
