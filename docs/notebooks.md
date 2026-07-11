@@ -76,7 +76,7 @@ nav_order: 3
     End-to-end mapping pipeline including data preparation, model training, inference, and indicator derivation
   </div>
   <div class="button-group">
-    <a href="https://github.com/IDEAtlas/ai-dua-mapping/blob/main/notebooks" class="btn btn-notebook">📓 Notebook</a>
+    <a href="https://github.com/IDEAtlas/ai-dua-mapping/blob/main/DUA_mapping.ipynb" class="btn btn-notebook">📓 Notebook</a>
     <a href="https://mybinder.org/v2/gh/IDEAtlas/ai-dua-mapping/HEAD" target="_blank" class="btn btn-launch">🚀 Launch</a>
   </div>
 </div>
